@@ -1,0 +1,2 @@
+mvn clean compile war:war tomcat7:redeploy
+
